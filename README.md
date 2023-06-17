@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @usamar98
-- 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on deep learning
+- 👋 Hi, I’m usama
+- 👀 I’m interested in machine learning and deep learning & web development
+- 🌱 I’m currently learning deep learning & web development
+- 💞️ I’m looking to collaborate on deep learning & web development
 - 📫 How to reach me ...
 
 <!---
